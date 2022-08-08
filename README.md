@@ -1,2 +1,2 @@
-# pictture
-pictture server
+# picture
+note pictture server
